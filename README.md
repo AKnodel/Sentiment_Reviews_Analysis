@@ -1,6 +1,14 @@
 # Sentiment Analysis Project
 
-This project performs sentiment analysis on YouTube comments using a BERT-based model and generates an extractive summary of the sentiments.
+This project leverages advanced Natural Language Processing (NLP) models for sentiment analysis, making it adaptable for diverse applications such as Amazon reviews, Google Map reviews, and restaurant reviews, etc. The implementation includes BERT-based models for accurate sentiment scoring and an Extractive Summarization model for generating concise and informative summaries of Youtube videos.
+
+## Models Used
+
+1. **BERT-Based Sentiment Analysis:**
+   Utilizing BERT-based models to provide precise and context-aware sentiment scores.
+
+2. **Extractive Summarization:**
+   Employing an Extractive Summarization model to generate meaningful summaries by extracting key sentences.
 
 ## Dependencies
 
