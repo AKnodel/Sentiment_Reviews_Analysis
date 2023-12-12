@@ -1,0 +1,6 @@
+tensorflow
+transformers
+pandas
+numpy
+torch
+google-api-python-client
