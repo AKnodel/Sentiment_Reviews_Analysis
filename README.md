@@ -39,7 +39,7 @@ pip install transformers summarizer tensorflow numpy pandas google-api-python-cl
    Execute the provided Jupyter Notebook to perform sentiment analysis, calculate the overall sentiment score, and generate an extractive summary.
 
 ```bash
-jupyter notebook sentiment_analysis_project.ipynb
+jupyter notebook main.ipynb
 ```
 
 4. **View Results:**
